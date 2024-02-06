@@ -6,7 +6,6 @@ import jakarta.persistence.Table;
 
 import jakarta.persistence.*;
 import lombok.Data;
-import lombok.Getter;
 import lombok.ToString;
 
 import java.util.Date;
